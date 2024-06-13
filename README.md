@@ -1,11 +1,5 @@
 # Simple-website
-This website includes HTML CSS JS Fundamentals.
-Applied CSS properties to HTML classes for styling effects.
-Applied color changing effects on buttons when hovered over them.
-Applied clearfix property for floating elements to left.
-Applied animation effect to 'CHERRY CAFE' text by using @keyframes.
-Made the website responsive by adding @media queries.
-Applied javascript function to display the nav-bar in the form of list when clicked on the scroll button in mobile view.
+The website includes HTML, CSS, and JS fundamentals, featuring styled HTML classes, button hover color effects, clearfix for floated elements, @keyframes animation for 'CHERRY CAFE' text, responsiveness with @media queries, and a JavaScript function to display the nav-bar as a list on mobile view when the scroll button is clicked.
 
 ![Animation Effect](https://user-images.githubusercontent.com/83008601/136708676-f46ff828-cb68-4450-9187-5dfb019960a0.png)
 
